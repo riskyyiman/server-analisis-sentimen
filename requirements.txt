@@ -1,8 +1,6 @@
 flask
 flask-cors
 google-play-scraper
-tensorflow-cpu
+tensorflow
 pandas
-numpy
 joblib
-gunicorn
