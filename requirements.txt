@@ -1,0 +1,8 @@
+flask
+flask-cors
+google-play-scraper
+tensorflow-cpu
+pandas
+numpy
+joblib
+gunicorn
