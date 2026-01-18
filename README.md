@@ -14,7 +14,6 @@ Backend server untuk melakukan analisis sentimen pada teks. Proyek ini dibangun 
 - [Dokumentasi API](#-dokumentasi-api)
 - [Struktur Folder](#-struktur-folder)
 
----
 
 ## 📖 Tentang Proyek
 Repository ini berfungsi sebagai API server yang menerima request berupa teks dari sisi klien (Frontend/Mobile App), memprosesnya melalui model analisis sentimen, dan mengembalikan hasil prediksi.
@@ -24,7 +23,6 @@ Repository ini berfungsi sebagai API server yang menerima request berupa teks da
 * Pemrosesan teks (Preprocessing).
 * Respon JSON yang cepat dan ringan.
 
----
 
 ## 🛠 Teknologi yang Digunakan
 * **Bahasa:** Python 3.x
@@ -32,14 +30,12 @@ Repository ini berfungsi sebagai API server yang menerima request berupa teks da
 * **Machine Learning:** Scikit-learn / NLTK / TensorFlow (Sesuaikan)
 * **Environment:** Virtualenv / Conda
 
----
 
 ## ⚙️ Prasyarat
 Sebelum memulai, pastikan Anda telah menginstal:
 * [Python](https://www.python.org/downloads/) (versi 3.8 atau lebih baru)
 * [Git](https://git-scm.com/)
 
----
 
 ## 🚀 Instalasi
 
@@ -67,8 +63,6 @@ Ikuti langkah-langkah berikut untuk menjalankan server di lokal:
     ```bash
     pip install -r requirements.txt
     ```
-
----
 
 ## ▶️ Cara Menjalankan
 
