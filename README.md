@@ -10,10 +10,6 @@ Backend server untuk melakukan analisis sentimen pada teks. Proyek ini dibangun 
 - [Teknologi yang Digunakan](#-teknologi-yang-digunakan)
 - [Prasyarat](#-prasyarat)
 - [Instalasi](#-instalasi)
-- [Cara Menjalankan](#-cara-menjalankan)
-- [Dokumentasi API](#-dokumentasi-api)
-- [Struktur Folder](#-struktur-folder)
-
 
 ## 📖 Tentang Proyek
 Repository ini berfungsi sebagai API server yang menerima request berupa teks dari sisi klien (Frontend/Mobile App), memprosesnya melalui model analisis sentimen, dan mengembalikan hasil prediksi.
